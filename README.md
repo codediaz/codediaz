@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
 
-## 📖 About me
+## 📖 | About me
 🌐 With 3+ years as a Senior Software Engineer, I'm deeply engaged in crafting software that bridges technology with positive real-world impact. My expertise spans [Frontend/Backend/Full Stack] development, contributing to diverse projects from startups to enterprise solutions. I champion clean code, user-centric design, and thrive in teams that value innovation and continuous growth.
 
 
-## 🔥 My contribution streak
+## 🔥 | My contribution streak
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
