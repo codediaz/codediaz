@@ -1,21 +1,45 @@
-## Hello World!, I'm Sergio Díaz 🌎
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+
+## 📖 About me
+🌐 With 3+ years as a Senior Software Engineer, I'm deeply engaged in crafting software that bridges technology with positive real-world impact. My expertise spans [Frontend/Backend/Full Stack] development, contributing to diverse projects from startups to enterprise solutions. I champion clean code, user-centric design, and thrive in teams that value innovation and continuous growth.
+
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+  </a>
+</p>
+
+
+
+<h2>⭐ | Github Stats </h2>
 <div align="center">
 <a href="https://github.com/codediaz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
+
+<h2>🛠️ | Languages Frameworks Tools </h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,js,ts,angular,vue,nextjs"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,net,spring"/><br>
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/><br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/> <br>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,grafana"/><br>  
+</div>
+
+
+
+   
+
  
+
   
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="codediaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="codediaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="codediaz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="codediaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="codediaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="codediaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="codediaz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
 
 <!--
 **codediaz/codediaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
