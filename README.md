@@ -20,9 +20,9 @@
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="105" alt="TEC.png"/><br>
+       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="100" alt="TEC.png"/><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>T E C</strong><br><strong>MSc.</strong> IT Management<br>
+        <strong>T E C</strong><br><strong>MSc.</strong> Inf. Tech. Management<br>
         <img src="https://progress-bar.dev/20/?title=Current" width="90" alt="progress-bar"/>
       </td>
       <td align="center">
