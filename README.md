@@ -9,28 +9,28 @@
 <p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
 
 <div align="center">
-  <table>
+  <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="100" alt="UPS.png"/><br>
+        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
         <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>U P S</strong><br><strong>B.Sc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/?title=Completed" width="100" alt="progress-bar"/>
+        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
+        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="100" alt="TEC.png"/><br>
+       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>T E C</strong><br><strong>MSc.</strong> Inf. Tech. Management<br>
-        <img src="https://progress-bar.dev/20/?title=Current" width="90" alt="progress-bar"/>
+        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
+        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="100" alt="MIT-C-I.png"/><br>
+       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
         <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>M I T</strong><br><strong>Ph.D.</strong> in C. Science and Eng<br>
-        <img src="https://progress-bar.dev/0/?title=Goal" width="80" alt="progress-bar"/>
+        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
+        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
       </td>
     </tr>
   </table>
