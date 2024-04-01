@@ -1,7 +1,13 @@
 <div align="right">
+<a href="https://github.com/codediaz" style="text-decoration: none" target="_blank" >
+<img src="https://img.shields.io/badge/-gray?style=flat&logo=Github&logoColor=white" style="margin-right:-14px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
-<a href="https://twitter.com/codediazsergio"  target="_blank">
+</a>
+<a href="https://twitter.com/codediazsergio" style="text-decoration: none" target="_blank">
 <img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
+</a>
+<a href="https://www.linkedin.com/in/sergio-diaz-fernandez/" style="text-decoration: none" target="_blank">
+<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
 
