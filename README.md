@@ -1,4 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<a href="https://twitter.com/codediazsergio"  target="_blank">
+<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
+</a>
+</div>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
 
@@ -35,7 +42,6 @@
     </tr>
   </table>
 </div>
-<br>
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
@@ -44,15 +50,13 @@
   </a>
 </p>
 
-<br>
 <h2>⭐ | Github Stats </h2>
+
 <div align="center">
 <a href="https://github.com/codediaz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
-
-<br>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
