@@ -48,6 +48,13 @@
   </table>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
