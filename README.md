@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
 
 <h2>📖 | About me</h2> 
-🌐 With 3+ years as a Senior Software Engineer, I'm deeply engaged in crafting software that bridges technology with positive real-world impact. My expertise spans [Frontend/Backend/Full Stack] development, contributing to diverse projects from startups to enterprise solutions. I champion clean code, user-centric design, and thrive in teams that value innovation and continuous growth.
+🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
 
 <h2>📚 | Education</h2>
 <p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
