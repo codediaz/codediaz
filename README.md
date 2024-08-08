@@ -51,7 +51,7 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil17-2002#version3"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-172002&theme=dark&hide_border=false"/></a>
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 <div align="center">
 <a href="https://github.com/sahil-172002">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil-172002&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-172002&theme=dark&hide_border=false"/></a>
+
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
